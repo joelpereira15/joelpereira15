@@ -12,6 +12,6 @@ I’m product oriented and thrive in environments where I can contribute with id
 
 - Next.js, React, Angular, Apollo(Graphql), Typescript, Styled components, Storybook
 - Cypress, Playwright, Jest
-- Azure, GH Actions, Jenkins Docker
+- Azure, GH Actions, Jenkins, Docker
 - Grafana, Prometheus, Antora
   
