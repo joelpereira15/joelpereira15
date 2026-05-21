@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Joel, a Frontend Engineer based in Oporto, Portugal.
 
@@ -8,7 +8,7 @@ I’m product-oriented and thrive in environments where I can contribute with id
 
 ---
 
-## Tools & Tech
+### Tools & Tech
 
 - Next.js, React, Angular, Typescript, Styled components, Storybook
 - Azure, GH Actions, Docker
@@ -16,9 +16,9 @@ I’m product-oriented and thrive in environments where I can contribute with id
 
 ---
 
-## A bit About Me
+### A bit About Me
 
-- 2 dogs
-- Sports guy
-- New in motorcycle world
+- 🐶 2 dogs
+- 🏃 Sports guy
+- 🏍️ New in motorcycle world
   
