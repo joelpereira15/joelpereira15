@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**joelpereira15/joelpereira15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joel, a Frontend Engineer based in Oporto, Portugal.
 
-Here are some ideas to get you started:
+I’ve been working in frontend development for several years, always with a DevOps mindset and ownership of the full development lifecycle, from design and development to deployment and operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m product-oriented and thrive in environments where I can contribute with ideas, take ownership and help push the team and product forward.
+
+---
+
+## Tools & Tech
+
+- Next.js, React, Angular, Typescript, Styled components, Storybook
+- Azure, GH Actions, Docker
+- Grafana, Prometheus, Antora
+
+---
+
+## A bit About Me
+
+- 2 dogs
+- Sports guy
+- New in motorcycle world
+  
