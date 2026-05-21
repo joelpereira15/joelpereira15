@@ -14,12 +14,4 @@ I’m product oriented and thrive in environments where I can contribute with id
 - Cypress, Playwright, Jest
 - Azure, GH Actions, Jenkins Docker
 - Grafana, Prometheus, Antora
-
----
-
-### A bit About Me
-
-- 🐶 2 dogs
-- 🏃 Sports guy
-- 🏍️ New in motorcycle world
   
