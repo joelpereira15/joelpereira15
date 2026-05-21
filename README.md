@@ -10,7 +10,7 @@ I’m product oriented and thrive in environments where I can contribute with id
 
 ### Tools & Tech
 
-- Next.js, React, Angular, Apollo(Graphql) Typescript, Styled components, Storybook
+- Next.js, React, Angular, Apollo(Graphql), Typescript, Styled components, Storybook
 - Cypress, Playwright, Jest
 - Azure, GH Actions, Jenkins Docker
 - Grafana, Prometheus, Antora
